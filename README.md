@@ -11,7 +11,7 @@ and Auto detection !!
 Use [Rename Robot](https://t.me/RenameDuniaBot) 
 
 #### The Simple Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sk8903/TG-RenameBot)
 
 #### Hard Way (VPS)
 * This is just a demo of commands to use
